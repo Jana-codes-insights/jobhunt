@@ -1,0 +1,164 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ .header{
+    background-color:black ; 
+    
+ }
+
+.buybtn{
+background-color: green;
+font-size: 20px;
+margin: 3px;
+color: white;
+border-radius: 5px;
+height: 50px;
+
+}
+.img-fluid{
+    font-weight: 300px;
+    width: 200px;
+}
+
+
+ .logo{
+    display: flex;
+    
+} 
+.logo i{
+    padding-top: 31px;
+}
+.nav-btn{
+    width: 120px;
+    border-radius: 5px;
+    background-color: rgb(226, 56, 84);
+    height: 40px;
+    text-wrap: nowrap;
+
+}
+.nav-icon{
+    display: inline;
+}
+.navbar{
+    height: 50px;
+}
+
+.headerstyle{
+    color: white;
+    
+}
+.navbar-toggler i{
+    background-color: white;
+}
+.site-content {
+    background: linear-gradient(45deg, rgb(139, 145, 221, 0.8), rgb(16, 25, 93, 0.8), rgb(16, 25, 93, 0.8)), url("img 5.jpg");
+    width: 100%;
+    height: 666.92px;
+    /* padding: 70px 0px 0px;
+    margin: -75px 0px 84px; */
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.pageheader-inner{
+    margin-bottom: 30px;
+    padding: 200px 15px 270px;
+}
+.icon{
+    color: black;
+}
+.form-control{
+    font-size: 1rem;
+    
+}
+.scroll-down{
+    width: 130px;
+    height: 130px;
+    border: 2px solid #fff;
+    border-radius: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 140px;
+}
+.scroll-down i{
+    font-size: 30px;
+    background-color: #ffffff;
+    color: #fb236a;
+    border-radius: 50px;
+    padding: 17px;
+    height: 60px;
+    width: 60px;
+}
+.down-button:hover{
+    background-color: #fb236a;
+    color: white;
+    
+}
+.scroll-down:hover{
+    border-color: #fb236a;
+}
+
+.para-jobs{
+    color: #888888;
+}
+.inner-section i{
+    color: #8b91dd;
+    font-size: 60px;
+}
+.media-icon h4 p{
+margin-top: 5px;
+}
+.media-icon p{
+    color: red;
+}
+.Browse-btn{
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 6px;
+    color: red;
+}
+
+.resume-sec{
+    background: linear-gradient(45deg, rgb(139, 145, 221, 0.8), rgb(16, 25, 93, 0.8), rgb(16, 25, 93, 0.8)), url("img\ 6.jpg");
+    width: 100%;
+    height: 450px;
+    margin-top: 35px;
+}
+.resume-heading{
+    margin-top: 90px;
+}
+.account-btn{
+    border: 2px solid white;
+    height: 50px;
+    width: 200px;
+    border-radius: 6px;
+}
+.button{
+    border: none;
+    text-wrap: nowrap;
+    
+}
+.p1{
+    color:#888888 ;
+}
+.desktop-i{
+    font-size: 80px;
+}
+.desktop-h,.desktop-span{
+    color: red;
+}
+.desktop-p{
+    color: #888888;
+}
+.btn-1{
+    border-radius: 6px;
+    color: rgb(154, 186, 154);
+    border:2px solid rgb(136, 180, 136);
+}
+.btn-2{
+    color: #888888;
+}
+.last-para{
+    color: #888888;
+}
