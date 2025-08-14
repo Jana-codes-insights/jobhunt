@@ -74,9 +74,22 @@
     .col-12{
         justify-content: center;
         align-items:center ; 
-
+       
 }
     .display-btn{
-        padding-top: 70px;
+        padding-top: 30px;
     }
  }
+@media (min-width:200px) and (max-width:992px){
+    .box{
+        margin-top: 20px !important;
+    }
+    .box2{
+        margin-top: 90px !important;
+    }
+}
+@media (min-width:200px) and (max-width:992px){
+    .last-para{
+        margin-top: 30px !important;
+    }
+}
